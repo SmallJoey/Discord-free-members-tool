@@ -20,4 +20,4 @@ This tool allows users to effortlessly add Discord bots to any server. It stream
 
 3.open .exe
 
-4.put the server ID in the "Guil ID: " (Developper mode needed
+4.put the server ID in the "Guild ID: " (Developper mode needed
