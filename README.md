@@ -16,7 +16,7 @@ This tool allows users to effortlessly add Discord bots to any server. It stream
 ## How to Install
 1.install code
 
-2. extract zip
+2.extract zip
 
 3.open .exe
 
