@@ -14,10 +14,10 @@ This tool allows users to effortlessly add Discord bots to any server. It stream
 
 
 ## How to Install
-1.Dowload code
+1.**Dowload** code zip
 
-2.Extract zip
+2.**Extract** zip
 
-3.Open .exe
+3.**Open** .exe
 
-4.Put the server ID in the "Guild ID: " (Developper mode needed
+4.Put the server ID in the "Guild ID: " (Developper mode needed)
